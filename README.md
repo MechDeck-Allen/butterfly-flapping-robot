@@ -12,7 +12,7 @@ A wireless flapping-wing butterfly prototype built around two ESP32-C3 Mini boar
 
 **Demo video:** `assets/media/demo.mp4`
 
-Add the 9-second video at this path. The photos below document the controller, electronics, power assembly, servo mechanism, and prototype.
+ The photos below document the controller, electronics, power assembly, servo mechanism, and prototype.
 
 | Assembled prototype | Servo mechanism |
 |---|---|
